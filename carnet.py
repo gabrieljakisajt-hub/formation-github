@@ -25,3 +25,5 @@ afficher_menu()
 ajouter_note("Apprendre les Issues")
 ajouter_note("Apprendre les Projects")
 voir_notes()
+
+comment 
