@@ -9,3 +9,5 @@ Projet d'exercice : un carnet de notes en Python.
 
 ## Lancer le programme
 python carnet.py
+
+vraiment 
